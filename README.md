@@ -5,7 +5,7 @@ them in its package. Each file name is a version; a changed pack gets a new name
 
 | file | contents |
 | --- | --- |
-| japan_v1.zip | 3D models of the Japan map (reduced and re-textured for phones) |
+| japan_v2.zip | 3D models of the Japan map (reduced and re-textured for phones) |
 
 ## Credits
 
