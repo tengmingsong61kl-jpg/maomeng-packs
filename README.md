@@ -6,6 +6,7 @@ them in its package. Each file name is a version; a changed pack gets a new name
 | file | contents |
 | --- | --- |
 | japan_v2.zip | 3D models of the Japan map (reduced and re-textured for phones) |
+| mh_lv1_v2.zip … mh_lv10_v2.zip (and the `_b` halves) | 猫核: one pack per level — its models, textures and sounds (credits: maohe_credits.md) |
 
 ## Credits
 
